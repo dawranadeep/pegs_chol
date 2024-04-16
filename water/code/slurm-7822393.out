@@ -1,0 +1,45 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023a Update 4 (9.14.0.2306882) 64-bit (glnxa64)
+                               June 19, 2023
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+     1
+
+Res 1 Train MSE = 13.3861
+Res 1 Train MAE = 9.1783
+Res 1 Test MSE = 14.2091
+Res 1 Test MAE = 9.8247
+Elapsed time is 42.021371 seconds.
+     2
+
+Res 2 Train MSE = 13.4626
+Res 2 Train MAE = 9.2314
+Res 2 Test MSE = 14.2159
+Res 2 Test MAE = 9.8244
+Elapsed time is 44.369245 seconds.
+     3
+
+Res 3 Train MSE = 14.2381
+Res 3 Train MAE = 9.3353
+Res 3 Test MSE = 15.198
+Res 3 Test MAE = 9.9646
+Elapsed time is 60.903734 seconds.
+     4
+
+Res 4 Train MSE = 13.4341
+Res 4 Train MAE = 9.1967
+Res 4 Test MSE = 14.1895
+Res 4 Test MAE = 9.7864
+Elapsed time is 78.836023 seconds.
+     5
+
+Res 5 Train MSE = 13.4877
+Res 5 Train MAE = 9.2299
+Res 5 Test MSE = 14.2041
+Res 5 Test MAE = 9.793
+Elapsed time is 94.764371 seconds.
